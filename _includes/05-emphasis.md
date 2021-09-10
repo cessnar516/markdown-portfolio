@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# A little about me
+I **love** front-end website development, *especially* accessible website development! I want to make sure *everyone* can use my website effectively, no matter **how** they browse the web. 
